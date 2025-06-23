@@ -2,3 +2,4 @@
 
 # please list your favorite camera brand here.
 -Canon
+-Sony
