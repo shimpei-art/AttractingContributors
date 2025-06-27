@@ -2,6 +2,8 @@
 
 # please list your favorite camera brand here.
 - Canon
+- Sigma
+- Canon
 - GoPro
 - Canon
 -PENTAX
