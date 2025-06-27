@@ -2,4 +2,7 @@
 
 # please list your favorite camera brand here.
 - Canon
+- Apple(iPhone)
+- Canon
 - Sony
+
