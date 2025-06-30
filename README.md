@@ -15,5 +15,6 @@ example
 - O
 - N
 - S
+- u
 - X
 - D
