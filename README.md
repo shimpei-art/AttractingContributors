@@ -15,4 +15,7 @@ example
 - O
 - N
 - S
+- H
+- u
+- X
 - D
