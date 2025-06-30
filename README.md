@@ -16,3 +16,5 @@ example
 - N
 - S
 - u
+- X
+- D
